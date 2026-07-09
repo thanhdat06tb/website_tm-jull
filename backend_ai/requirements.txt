@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+pika  # for rabbitmq
+psycopg2-binary
+sqlalchemy
+redis
+pydantic-settings
